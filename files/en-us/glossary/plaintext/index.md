@@ -1,4 +1,12 @@
----
+➿➿➿ คำเชิญ ➿➿➿
+
+คุณได้รับเชิญ ⭐ เข้ากลุ่ม
+มอปลายหวานเจี๊ยบ > กด
+ลิ้งค์เพื่อเข้ากลุ่มทันที ✨
+
+➿➿➿ LINK ➿➿➿
+
+ https://lin.ee/4yee8dL---
 title: Plaintext
 slug: Glossary/Plaintext
 page-type: glossary-definition
